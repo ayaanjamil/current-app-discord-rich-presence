@@ -9,7 +9,7 @@ def active_window_process_name():
 
 
 itemlist = ['discord', 'spotify', 'chrome', 'teams', 'zoom']
-client_id = '852940672629080066'
+client_id = [ENTERTOKENHERE]
 RPC = Presence(client_id)
 RPC.connect()
 starttime = time.time()
