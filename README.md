@@ -6,3 +6,5 @@ you will need to make an application from the developer portal and insert the cl
 you will also need to upload the images to the rich presence part thingy
 
 ok bye
+
+(you can rename the bot.py to bot.pyw if you want to run it without the python terminal)
